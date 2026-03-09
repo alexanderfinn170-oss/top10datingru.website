@@ -9,9 +9,33 @@
 </url>
 
 <url>
-<loc>https://top10datingru.website/russian-online-dating-guide.html</loc>
+<loc>https://top10datingru.website/best-russian-dating-sites.html</loc>
 <priority>0.9</priority>
 <changefreq>monthly</changefreq>
+</url>
+
+<url>
+<loc>https://top10datingru.website/russian-dating-tips.html</loc>
+<priority>0.9</priority>
+<changefreq>monthly</changefreq>
+</url>
+
+<url>
+<loc>https://top10datingru.website/privacy.html</loc>
+<priority>0.3</priority>
+<changefreq>yearly</changefreq>
+</url>
+
+<url>
+<loc>https://top10datingru.website/terms.html</loc>
+<priority>0.3</priority>
+<changefreq>yearly</changefreq>
+</url>
+
+<url>
+<loc>https://top10datingru.website/contact.html</loc>
+<priority>0.3</priority>
+<changefreq>yearly</changefreq>
 </url>
 
 </urlset>
